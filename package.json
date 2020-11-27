@@ -2,21 +2,21 @@
     "name": "vscode-perl",
     "displayName": "Perl",
     "description": "Perl code intelligence via ctags.",
-    "version": "1.18.0",
-    "author": "Henrik Sjööh <hello@enhenrik.nu> (http://www.enhenrik.nu)",
+    "version": "1.18.1",
+    "author": "the96 <aar30px2@gmail.com> (http://github.com/the96)",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/vscode-perl/vscode-perl"
+        "url": "https://github.com/the96/vscode-perl"
     },
     "bugs": {
-        "url": "https://github.com/vscode-perl/vscode-perl/issues"
+        "url": "https://github.com/the96/vscode-perl/issues"
     },
-    "homepage": "https://github.com/vscode-perl/vscode-perl",
+    "homepage": "https://github.com/the96/vscode-perl",
     "categories": [
         "Programming Languages"
     ],
-    "publisher": "henriiik",
+    "publisher": "the96",
     "engines": {
         "vscode": "^1.26.1"
     },
