@@ -6,6 +6,12 @@ Formatting is also supported with use of [Perl::Tidy](https://metacpan.org/pod/d
 
 This extension is current modeled after how I work with Perl, so your mileage may vary.
 
+# About Defferent from the original
+Definition source jump has improved a little.
+The function of the original doesn't check module name.
+The function of this became checking module name!
+(But Foo::Bar->func style only...)
+
 # How To Use
 
 Follow the instructions below to install `ctags`, and then open a file with the language mode `perl`. If the file is in a workspace, a `.vstags` file will be created automatically and updated on save. if you open a file when not in a workspace tags will be generated on the fly but some functionality will not be enabled. You can also force generation of tags with the command "Perl: Generate Tags" (ex. after a git checkout).
